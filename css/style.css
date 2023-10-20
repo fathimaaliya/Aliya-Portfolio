@@ -493,6 +493,10 @@ h5{
     transform: translateY(-3px)translateX(-5px);
     color: white;
 }
+.footer-cnt li:hover{
+    transform: translateY(-3px)translateX(-5px);
+    color: white;
+}
 .footer-cnt p{
     color: #419E98;
     font-size: 20px;
